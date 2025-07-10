@@ -16,5 +16,3 @@ Reference Types: Objects, Arrays, Functions.
 3. Functions
 Functions are first-class objects in JavaScript. They can be defined using function declarations or expressions.
 
-4. Control Structures
-JavaScript includes various control structures like if, else, switch, for, while, and do...while.
